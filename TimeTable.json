@@ -1,0 +1,62 @@
+{
+    "Monday": {
+        "8:30": "Database Systems (BDS-4A) [VENUE:Seminar Hall]",
+        "10:00": "Funda. of Software Eng (BDS-4A) [VENUE:Seminar Hall]",
+        "11:30": null,
+        "1:00": null,
+        "2:30": null,
+        "4:00": null,
+        "5:30": null,
+        "7:00": null
+    },
+    "Tuesday": {
+        "8:30": "Linear Algebra (BDS-4A) [VENUE:Seminar Hall]",
+        "10:00": null,
+        "11:30": "F. of Big Data Analytics (BDS-4A) [VENUE:Seminar Hall]",
+        "1:00": "Advanced Statistics  (BDS-4A) [VENUE:Seminar Hall]",
+        "2:30": null,
+        "4:00": null,
+        "5:30": null,
+        "7:00": null
+    },
+    "Wednesday": {
+        "8:30": "Database Systems (BDS-4A) [VENUE:Seminar Hall]",
+        "10:00": "Funda. of Software Eng (BDS-4A) [VENUE:Seminar Hall]",
+        "11:30": null,
+        "1:00": null,
+        "2:30": "Database Systems Lab (BDS-4A) [VENUE:Lab(CS-2A)]",
+        "4:00": "Database Systems Lab (BDS-4A) [VENUE:Lab(CS-2A)]",
+        "5:30": null,
+        "7:00": null
+    },
+    "Thursday": {
+        "8:30": "Linear Algebra (BDS-4A) [VENUE:Seminar Hall]",
+        "10:00": null,
+        "11:30": "F. of Big Data Analytics (BDS-4A) [VENUE:Seminar Hall]",
+        "1:00": "Advanced Statistics  (BDS-4A) [VENUE:Seminar Hall]",
+        "2:30": null,
+        "4:00": null,
+        "5:30": null,
+        "7:00": null
+    },
+    "Friday": {
+        "8:30": null,
+        "10:00": null,
+        "11:30": null,
+        "1:00": null,
+        "2:30": null,
+        "4:00": null,
+        "5:30": null,
+        "7:00": null
+    },
+    "Saturday": {
+        "8:30": null,
+        "10:00": null,
+        "11:30": "F. of Big Data Analytics Lab (BDS-4A) [VENUE:Lab(CS-4)]",
+        "1:00": "F. of Big Data Analytics Lab (BDS-4A) [VENUE:Lab(CS-4)]",
+        "2:30": null,
+        "4:00": null,
+        "5:30": null,
+        "7:00": null
+    }
+}

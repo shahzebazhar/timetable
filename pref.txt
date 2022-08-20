@@ -1,0 +1,6 @@
+BDS
+Design & Analysis of Algo - 5A
+Data Analysis & Visualization - 5A
+Tech. & Business Writing - 5B
+Operating Systems - 5A
+Data Ware & Buss Intell - 5A
